@@ -1,3 +1,3 @@
 # qtmqw.github.io
 
-Labdien Mani sauc Daniels Maikls Ozoliņš un ši ir mana lapa!
+Labdien! Mani sauc Daniels Maikls Ozoliņš un ši ir mana lapa!
